@@ -1,4 +1,4 @@
-fist commit.
+First commit.
 
 ## Author
 
