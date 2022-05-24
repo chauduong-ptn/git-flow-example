@@ -1,1 +1,6 @@
-fist commit
+fist commit.
+
+## Author
+
+- Chau Duong
+- Someone Else
